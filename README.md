@@ -1,2 +1,2 @@
-# oulib_intranet
-This is the subtheme of Bootstrap for OU Libraries Intranet sites.
+# oulib_files
+This is the subtheme of Bootstrap for OU Libraries Digital Acquisitions site.
